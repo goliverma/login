@@ -1,0 +1,9 @@
+/home/goli/Desktop/Login/models/bin/Debug/netcoreapp3.1/models.deps.json
+/home/goli/Desktop/Login/models/bin/Debug/netcoreapp3.1/models.dll
+/home/goli/Desktop/Login/models/bin/Debug/netcoreapp3.1/models.pdb
+/home/goli/Desktop/Login/models/obj/Debug/netcoreapp3.1/models.csprojAssemblyReference.cache
+/home/goli/Desktop/Login/models/obj/Debug/netcoreapp3.1/models.csproj.CoreCompileInputs.cache
+/home/goli/Desktop/Login/models/obj/Debug/netcoreapp3.1/models.AssemblyInfoInputs.cache
+/home/goli/Desktop/Login/models/obj/Debug/netcoreapp3.1/models.AssemblyInfo.cs
+/home/goli/Desktop/Login/models/obj/Debug/netcoreapp3.1/models.dll
+/home/goli/Desktop/Login/models/obj/Debug/netcoreapp3.1/models.pdb
